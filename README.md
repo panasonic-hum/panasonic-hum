@@ -1,8 +1,15 @@
 ## Hello, guests
 
-I'm Shelby (she/her), a QA tester interested in learning code. I'm working on some personal projects so I can learn, mess up in a low stakes way, and grow my skills.
+I'm Shelby (she/her), a QA tester interested in learning more of the code side of development. I'm working on some personal projects so I can learn, mess up in a low stakes way, and grow my skills.
 
-[![My Skills](https://skillicons.dev/icons?i=astro,css,html,git,postman,py,selenium&perline=3)](https://skillicons.dev)
+proficient: 
+
+[![My Skills](https://skillicons.dev/icons?i=astro,css,html,git,postman,py,selenium&theme=dark)](https://skillicons.dev)
+
+currently learning or plan to learn:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react&theme=dark)](https://skillicons.dev)
+
 
 ## current projects
 
