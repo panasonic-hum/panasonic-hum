@@ -1,4 +1,4 @@
-## Hello, guests
+## Hello! 👋
 
 I'm Shelby (she/her), a QA tester interested in learning more of the code side of development. I'm working on some personal projects so I can learn, mess up in a low stakes way, and grow my skills.
 
